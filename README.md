@@ -8,12 +8,14 @@ For June:
 - The average temperature is about 75 degrees.
 - The low is 64 degrees.
 - The high is 85 degrees.
+
 ![June](https://github.com/typicalchazz/surfs_up/blob/main/Resources/June_Temp_Stats.png)
 
 For December:
 - The average temperature is about 71 degrees.
 - The low is 56 degrees.
 - The high is 83 degrees.
+
 ![Dec](https://github.com/typicalchazz/surfs_up/blob/main/Resources/Dec_Temp_Stats.png)
 
 ## Summary
